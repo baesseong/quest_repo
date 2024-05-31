@@ -11,7 +11,7 @@
 
 [O]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
 - 네, 주어진 문제를 모두 빠짐없이 잘 해결하였습니다.
-- ![image](https://github.com/hanah0304/quest_repo_fork/assets/170993228/5255e95a-9465-4c28-8ed2-1f566d1540fb)
+ ![image](https://github.com/hanah0304/quest_repo_fork/assets/170993228/5255e95a-9465-4c28-8ed2-1f566d1540fb)
     
 [O]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 	주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
